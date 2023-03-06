@@ -1,0 +1,55 @@
+time EDLines extraction: 0.0149122s
+time LSD extraction: 0.0446928s
+time FLD extraction: 0.0247531s
+
+time EDLines extraction: 0.0148917s
+time LSD extraction: 0.0443438s
+time FLD extraction: 0.0228s
+
+time EDLines extraction: 0.0151009s
+time LSD extraction: 0.0706067s
+time FLD extraction: 0.0236775s
+
+time EDLines extraction: 0.0148429s
+time LSD extraction: 0.0452668s
+time FLD extraction: 0.0265916s
+
+time EDLines extraction: 0.0146577s
+time LSD extraction: 0.0442483s
+time FLD extraction: 0.0226785s
+
+time EDLines extraction: 0.0149817s
+EDLines extraction: 968
+time LSD extraction: 0.0723719s
+ LSD extraction: 1115
+time FLD extraction: 0.0268967s
+FLD extraction: 1355
+
+time EDLines extraction: 0.0154031s
+EDLines extraction: 968
+time LSD extraction: 0.0388205s
+ LSD extraction: 1115
+time FLD extraction: 0.0261292s
+FLD extraction: 1355
+
+time EDLines extraction: 0.0146951s
+EDLines extraction: 968
+time LSD extraction: 0.0448268s
+ LSD extraction: 1115
+time FLD extraction: 0.0225532s
+FLD extraction: 1355
+
+time EDLines extraction: 0.0150194s
+EDLines extraction: 968
+time LSD extraction: 0.069926s
+ LSD extraction: 1115
+time FLD extraction: 0.0226681s
+FLD extraction: 1355
+
+time EDLines extraction: 0.0128265s
+EDLines extraction: 968
+time LSD extraction: 0.0405316s
+ LSD extraction: 1115
+time FLD extraction: 0.0189617s
+FLD extraction: 1355
+
